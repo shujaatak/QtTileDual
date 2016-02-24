@@ -1,0 +1,25 @@
+* Polish
+stop animating when the user clicks on a cell?
+shade the dual cells
+shade grid cells on mouseover
+smooth animation between cell types
+smooth animation of dual grid
+
+* Features
+drag to paint cells
+list of functions
+animate between functions
+color schemes
+sliders to set the grid width and height
+projections
+
+* Design
+use slots or notifications to tell views when model changes
+split Cell into model and view 
+use Qt model / view classes?
+clean up the subpoly organization
+use QtCanvas instead of a scene graph?
+
+* Coding
+Cell -> Tile ?
+Board -> Graph
